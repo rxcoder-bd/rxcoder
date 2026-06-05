@@ -1,0 +1,227 @@
+body{
+    background-color: #0F172A;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#rxtitle{
+    color: #38BDF8;
+    text-align: center;
+}
+
+#ptext{
+    color: #38BDF8;
+    text-align: center;
+    top: 200px;
+    position: absolute;
+    margin-left: 25px;
+}
+
+#pbox{
+    width: 320px;
+    margin-left: 20px;
+    margin-right: 5px;
+    height: 285px;
+    background-color: #1E293B;
+    border-radius: 13px;
+    border: 2px solid #334155;
+    position: relative;
+    top: 225px;
+}
+
+#nxtext{
+    color: #38BDF8;
+    position: absolute;
+    left: 22px;
+    top: 0px;
+}
+
+#nxptext{
+    color: #F8FAFC;
+    position: absolute;
+    top: 55px;
+    left: 30px;
+}
+
+#nxstext{
+    color: #22c55e;
+    position: absolute;
+    top: 85%;
+    left: 40px;
+    font-weight: Bold;
+}
+
+#rxskill{
+    color: #38BDF8;
+    position: absolute;
+    left: 25px;
+    top: 600px;
+}
+
+#htmlbox{
+    background: #E34F26;
+    width: 300px;
+    height: 180px;
+    border-radius: 20px;
+    border: 2px solid #334155;
+    overflow: hidden;
+    position: absolute;
+    top: 680px;
+    left: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+#htmlpng{
+    width: 100px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+#html{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#cssbox{
+    background: #1572B6;
+    border: 2px solid #334155;
+    border-radius: 20px;
+    text-align: center;
+    position: absolute;
+    width: 300px;
+    height: 180px;
+    top: 870px;
+    left: 25px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+#css{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#csspng{
+    width: 100px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+#jsbox{
+    background: #F7DF1E;
+    width: 300px;
+    height: 180px;
+    text-align: center;
+    position: absolute;
+    top: 1060px;
+    left: 25px;
+    border: 2px solid #334155;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    overflow: hidden;
+}
+
+#js{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#jspng{
+    width: 100px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+#details{
+    position: absolute;
+    top: 1250px;
+}
+
+#fdetails{
+    color: #38BDF8;
+    margin: 25px;
+}
+
+#profile{
+    background: #1E293B;
+    border: 2px solid #334155;
+    border-radius: 20px;
+    width: 320px;
+    height: 280px;
+    position: absolute;
+    top: 1380px;
+    left: 20px;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#rx{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    border: 3px solid #334155;
+    position: absolute;
+    left: 105px;
+    top: 20px;
+}
+
+#name{
+    color: #F8FAFC;
+    text-align: center;
+    position: absolute;
+    left: 85px;
+    top: 120px;
+}
+
+#telegram{
+    display: flex;
+    object-fit: contain;
+    object-position: center;
+    width: 50px;
+    height: auto;
+    position: absolute;
+    left: 65px;
+    bottom: 15px;
+}
+
+#github{
+    display: flex;
+    object-fit: contain;
+    object-position: center;
+    width: 50px;
+    height: auto;
+    position: absolute;
+    left: 140px;
+    bottom: 15px;
+}
+
+#twitter{
+    display: flex;
+    object-fit: contain;
+    object-position: center;
+    width: 50px;
+    height: auto;
+    position: absolute;
+    left: 210px;
+    bottom: 14px;
+}
