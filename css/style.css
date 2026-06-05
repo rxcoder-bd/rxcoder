@@ -80,7 +80,6 @@ body{
     width: 100px;
     height: auto;
     object-fit: contain;
-    object-position: center;
 }
 
 #html{
@@ -115,7 +114,6 @@ body{
     width: 100px;
     height: auto;
     object-fit: contain;
-    object-position: center;
 }
 
 #jsbox{
@@ -145,7 +143,6 @@ body{
     width: 100px;
     height: auto;
     object-fit: contain;
-    object-position: center;
 }
 
 #details{
